@@ -1,8 +1,8 @@
-# Privacy Policy for remesh
+# Privacy Policy for ReMesh
 
 **Last updated:** November 3, 2026
 
-This privacy policy governs your use of the software application **remesh** ("Application") for mobile devices, created and maintained by **Štěpán Remeš** ("Developer", "we", "us"). 
+This privacy policy governs your use of the software application **ReMesh** ("Application") for mobile devices, created and maintained by **Štěpán Remeš** ("Developer", "we", "us"). 
 
 The Application provides users with the ability to scan NFC tags, share profile information, and interact with other users. We are committed to protecting and respecting your privacy.
 
